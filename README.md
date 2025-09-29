@@ -94,3 +94,5 @@ Currently, `locations` graphql endpoint doesn't support querying on the `updated
 ---
 
 Copyright &copy; 2025 Stitch
+
+Bye
